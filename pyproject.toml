@@ -1,0 +1,28 @@
+[project]
+name = "snakeengine"
+version = "0.0.0-dev1"
+description = "The python game engine that I make my games in. Requires pygame-ce."
+requires-python = ">=3.14"
+dependencies = ["pygame-ce"]
+authors = [
+    {name = "Ninesideddevelopment", email = "ninesideddevelopment@gmail.com"}
+]
+maintainers = [
+    {name = "Ninesideddevelopment", email = "ninesideddevelopment@gmail.com"}
+]
+readme = "README.md"
+license = "GPL-3.0"
+keywords = ["pygame", "snakeengine", "gameengine"]
+classifiers = [
+    # https://pypi.org/classifiers/
+    "Development Status :: 1 - Planning",
+
+    "Intended Audience :: Developers",
+    "Topic :: Libraries :: pygame",
+
+    "Programming Language :: Python :: 3.14"
+]
+[project.urls]
+Homepage = "https://github.com/Ninesideddevelopment/SnakeEngine/"
+"Source Code" = "https://github.com/Ninesideddevelopment/SnakeEngine.git"
+Issues = "https://github.com/Ninesideddevelopment/SnakeEngine/issues/"
