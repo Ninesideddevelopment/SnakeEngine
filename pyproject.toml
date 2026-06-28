@@ -1,6 +1,6 @@
 [project]
 name = "snakeengine"
-version = "0.0.0-dev1"
+version = "0.0.0.dev1"
 description = "The python game engine that I make my games in. Requires pygame-ce."
 requires-python = ">=3.14"
 dependencies = ["pygame-ce"]
